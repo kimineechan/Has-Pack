@@ -1,6 +1,6 @@
 # has.js
 
-Pure feature detection library, a la carte style.
+Pure feature detection library, a la carte styles.
 
 This document is **not** complete.
 
